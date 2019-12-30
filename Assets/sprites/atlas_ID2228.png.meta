@@ -1,0 +1,2072 @@
+fileFormatVersion: 2
+guid: 3c90b7fab0698d34ab8df7a58d97de8c
+timeCreated: 1500860330
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlas_ID2228_0
+    21300002: atlas_ID2228_1
+    21300004: atlas_ID2228_2
+    21300006: atlas_ID2228_3
+    21300008: atlas_ID2228_4
+    21300010: atlas_ID2228_5
+    21300012: atlas_ID2228_6
+    21300014: atlas_ID2228_7
+    21300016: atlas_ID2228_8
+    21300018: atlas_ID2228_9
+    21300020: atlas_ID2228_11
+    21300022: atlas_ID2228_14
+    21300024: atlas_ID2228_16
+    21300026: atlas_ID2228_25
+    21300028: atlas_ID2228_38
+    21300030: atlas_ID2228_39
+    21300032: atlas_ID2228_55
+    21300034: atlas_ID2228_56
+    21300036: atlas_ID2228_60
+    21300038: atlas_ID2228_76
+    21300040: atlas_ID2228_78
+    21300042: atlas_ID2228_79
+    21300044: atlas_ID2228_80
+    21300046: atlas_ID2228_81
+    21300048: atlas_ID2228_82
+    21300050: atlas_ID2228_83
+    21300052: atlas_ID2228_84
+    21300054: atlas_ID2228_85
+    21300056: atlas_ID2228_86
+    21300058: atlas_ID2228_87
+    21300060: atlas_ID2228_88
+    21300062: atlas_ID2228_89
+    21300064: atlas_ID2228_90
+    21300066: atlas_ID2228_91
+    21300068: atlas_ID2228_92
+    21300070: atlas_ID2228_93
+    21300072: atlas_ID2228_94
+    21300074: atlas_ID2228_95
+    21300076: atlas_ID2228_96
+    21300078: atlas_ID2228_97
+    21300080: atlas_ID2228_98
+    21300082: atlas_ID2228_99
+    21300084: atlas_ID2228_100
+    21300086: atlas_ID2228_101
+    21300088: atlas_ID2228_102
+    21300090: atlas_ID2228_103
+    21300092: atlas_ID2228_104
+    21300094: atlas_ID2228_105
+    21300096: atlas_ID2228_106
+    21300098: atlas_ID2228_107
+    21300100: atlas_ID2228_108
+    21300102: atlas_ID2228_109
+    21300104: atlas_ID2228_110
+    21300106: atlas_ID2228_111
+    21300108: atlas_ID2228_112
+    21300110: atlas_ID2228_113
+    21300112: atlas_ID2228_117
+    21300114: atlas_ID2228_118
+    21300116: atlas_ID2228_119
+    21300118: atlas_ID2228_120
+    21300120: atlas_ID2228_121
+    21300122: atlas_ID2228_122
+    21300124: atlas_ID2228_123
+    21300126: atlas_ID2228_124
+    21300128: atlas_ID2228_125
+    21300130: atlas_ID2228_126
+    21300132: atlas_ID2228_127
+    21300134: atlas_ID2228_128
+    21300136: atlas_ID2228_129
+    21300138: atlas_ID2228_130
+    21300140: atlas_ID2228_131
+    21300142: atlas_ID2228_132
+    21300144: atlas_ID2228_133
+    21300146: atlas_ID2228_134
+    21300148: atlas_ID2228_135
+    21300150: atlas_ID2228_138
+    21300152: atlas_ID2228_139
+    21300154: atlas_ID2228_140
+    21300156: atlas_ID2228_141
+    21300158: atlas_ID2228_142
+    21300160: atlas_ID2228_143
+    21300162: atlas_ID2228_144
+    21300164: atlas_ID2228_145
+    21300166: atlas_ID2228_146
+    21300168: atlas_ID2228_147
+    21300170: atlas_ID2228_148
+    21300172: atlas_ID2228_149
+    21300174: atlas_ID2228_150
+    21300176: atlas_ID2228_151
+    21300178: atlas_ID2228_152
+    21300180: atlas_ID2228_153
+    21300182: atlas_ID2228_154
+    21300184: atlas_ID2228_155
+    21300186: atlas_ID2228_156
+    21300188: atlas_ID2228_157
+    21300190: atlas_ID2228_158
+    21300192: atlas_ID2228_159
+    21300194: atlas_ID2228_160
+    21300196: atlas_ID2228_161
+    21300198: atlas_ID2228_162
+    21300200: atlas_ID2228_163
+    21300202: atlas_ID2228_164
+    21300204: atlas_ID2228_165
+    21300206: atlas_ID2228_166
+    21300208: atlas_ID2228_167
+    21300210: atlas_ID2228_168
+    21300212: atlas_ID2228_169
+    21300214: atlas_ID2228_170
+    21300216: atlas_ID2228_171
+    21300218: atlas_ID2228_172
+    21300220: atlas_ID2228_173
+    21300222: atlas_ID2228_174
+    21300224: atlas_ID2228_175
+    21300226: atlas_ID2228_176
+    21300228: atlas_ID2228_177
+    21300230: atlas_ID2228_178
+    21300232: atlas_ID2228_179
+    21300234: atlas_ID2228_180
+    21300236: atlas_ID2228_181
+    21300238: atlas_ID2228_182
+    21300240: atlas_ID2228_183
+    21300242: atlas_ID2228_184
+    21300244: atlas_ID2228_185
+    21300246: atlas_ID2228_186
+    21300248: atlas_ID2228_187
+    21300250: atlas_ID2228_188
+    21300252: atlas_ID2228_189
+    21300254: atlas_ID2228_190
+    21300256: atlas_ID2228_191
+    21300258: atlas_ID2228_192
+    21300260: point
+    21300262: atlas_ID2228_196
+    21300264: atlas_ID2228_197
+    21300266: atlas_ID2228_198
+    21300268: atlas_ID2228_200
+    21300270: atlas_ID2228_209
+    21300272: atlas_ID2228_211
+    21300274: atlas_ID2228_212
+    21300276: atlas_ID2228_220
+    21300278: atlas_ID2228_230
+    21300280: atlas_ID2228_241
+    21300282: atlas_ID2228_249
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_ID2228_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 943
+        width: 552
+        height: 1105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1815
+        width: 234
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_2
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1808
+        width: 491
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_3
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1822
+        width: 280
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_4
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1851
+        width: 199
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_5
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1850
+        width: 199
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_6
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_7
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1916
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1604
+        width: 730
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_9
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1614
+        width: 199
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_11
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1609
+        width: 199
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_14
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1613
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_16
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1727
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_25
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1651
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_38
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1388
+        width: 200
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_39
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1386
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_55
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1445
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_56
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1451
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_60
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1392
+        width: 789
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_76
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1212
+        width: 833
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_78
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1216
+        width: 324
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_79
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1251
+        width: 141
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_80
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1251
+        width: 141
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_81
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1058
+        width: 536
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_82
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1058
+        width: 536
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_83
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1069
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_84
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1069
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_85
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1088
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_86
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_87
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1015
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_88
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_89
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1013
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_90
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1013
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_91
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1013
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_92
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_93
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_94
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_95
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1013
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_96
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_97
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1013
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_98
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_99
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_100
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1013
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_101
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1013
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_102
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1013
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_103
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_104
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_105
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1013
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_106
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1013
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_107
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1013
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_108
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1013
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_109
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1013
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_110
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 948
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_111
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 947
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_112
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 947
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_113
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 976
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_117
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_118
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 946
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_119
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 946
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_120
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 946
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_121
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 946
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_122
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 946
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_123
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 946
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_124
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 946
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_125
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 946
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_126
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 946
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_127
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 946
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_128
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 946
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_129
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 946
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_130
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 946
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_131
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 946
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_132
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 946
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_133
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 946
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_134
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 946
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_135
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 946
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 455
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_139
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 792
+        width: 457
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_140
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 792
+        width: 502
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_141
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 793
+        width: 612
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_145
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_146
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_147
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_148
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_149
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_150
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_151
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_152
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_153
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_154
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_155
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 650
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_157
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 508
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_158
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 508
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_159
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 508
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 510
+        width: 138
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_161
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 530
+        width: 148
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_162
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 510
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_163
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 512
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_164
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 510
+        width: 5
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_165
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 512
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_166
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 516
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_167
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 517
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_168
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 517
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_169
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 517
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_170
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 517
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_171
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 517
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_172
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 517
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_173
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 517
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_175
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_176
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_177
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_178
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_179
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_180
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_181
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_182
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_183
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_184
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 375
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_185
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 376
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_186
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 377
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_187
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 376
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_188
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 378
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_190
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 245
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_191
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 245
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_192
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 245
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: point
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 248
+        width: 134
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_196
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 252
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_197
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 255
+        width: 345
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_198
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 259
+        width: 128
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_200
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 268
+        width: 561
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_209
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 308
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 421
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_212
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 174
+        width: 262
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_220
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 190
+        width: 342
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_230
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 190
+        width: 358
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_241
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 190
+        width: 262
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_ID2228_249
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
